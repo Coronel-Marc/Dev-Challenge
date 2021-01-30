@@ -1,5 +1,8 @@
 # Desafio Spedy
 
+![Jornal Street Brasilia](https://user-images.githubusercontent.com/56852736/106366135-9b409d00-6318-11eb-94cc-a8ed5c1dfa92.png)
+
+
 O intuito desse README.md é somente dar algumas breves explicações com relação ao projeto pois acredito que além de um bom código, bons comentários também são necessários para posteriores programadores que algum dia irão abrir o código do seu projeto. __Agora sem mais delongas, bora lá!__
 
 
